@@ -1,4 +1,0 @@
-Hi Everyone
-we are learning file i/o
-usng python
-i like programming in python 
